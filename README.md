@@ -1,0 +1,2 @@
+# PandemicSimulator
+Personal proyect 
